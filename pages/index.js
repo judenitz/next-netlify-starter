@@ -6,10 +6,9 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Knajp.pl</title>
+        <title>knajp.pl</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <main>
         <Header title="knajp.pl" />
         <p className="description">
@@ -17,7 +16,6 @@ export default function Home() {
           <p style="text-align:center;">michal [at] knajp.pl<br/><br/>501 499 771</p>
         </p>
       </main>
-
       <Footer />
     </div>
   )
