@@ -13,7 +13,6 @@ export default function Home() {
         <Header title="knajp.pl" />
         <p className="description">
           <code>domena efektywnych restauracji</code>
-          <p style="text-align:center;">michal [at] knajp.pl<br/><br/>501 499 771</p>
         </p>
       </main>
       <Footer />
